@@ -1,0 +1,4 @@
+Sitemap: https://deb-demosite.com/sitemapindex.xml
+
+User-Agent: *
+Host: deb-demosite.com
